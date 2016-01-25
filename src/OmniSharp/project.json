@@ -15,7 +15,9 @@
         "OmniSharp.ScriptCs": "1.0.0-*"
       }
     },
-    "dnxcore50": {}
+    "dnxcore50": {
+      "imports": "portable-net45+win8"
+    }
   },
   "entryPoint": "OmniSharp.Host"
 }
